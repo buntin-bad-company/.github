@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![https://raw.buntin.xyz/kancolleDivision.png]()
+![hello](https://raw.buntin.xyz/kancolleDivision.png)
 <!--
 
 
