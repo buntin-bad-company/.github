@@ -1,6 +1,9 @@
 ## Hi there 👋
 
+![https://raw.buntin.xyz/kancolleDivision.png]()
 <!--
+
+
 
 **Here are some ideas to get you started:**
 
