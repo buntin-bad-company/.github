@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+### This organization is a repogitory archive for Buntin-Synthia.
+
+[main-BuntinJP](https://github.com/BuntinJP)
+[secondary-Buntin-Liz](https://github.com/Buntin-Liz)
+
 ![hello](https://raw.buntin.xyz/kancolleDivision.png)
 <!--
 
