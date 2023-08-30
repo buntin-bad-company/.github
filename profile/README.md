@@ -5,7 +5,7 @@
 <div>
   <center>
 
-| \                       |                                                         Available                                                         |                                                   Interested                                                   | Hate |
+| \                       |                                                         Available                                                         |                                                   Exploring                                                   | Hate |
 | :---------------------- | :-----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :---:|
 | Language                |             [![My_Sills](https://skill-icons.buntin.workers.dev/icons?i=ts,js,py,java,c)](https://buntin.xyz)             |      [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=rust,zig,crystal,nim,swift)](https://buntin.xyz)      | [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=php,ruby)](https://buntin.xyz) 
 | Frameworks & Technology | [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=react,redux,nodejs,docker,tensorflow)](https://buntin.xyz) | [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=tauri,astro,nextjs,svelte,kubernetes)](https://buntin.xyz) |
