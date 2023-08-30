@@ -2,19 +2,39 @@
 
 ### This organization is a repogitory archive for Buntin-Synthia.
 
-[main-BuntinJP](https://github.com/BuntinJP)
-[secondary-Buntin-Liz](https://github.com/Buntin-Liz)
+### About Me
 
-![hello](https://raw.buntin.xyz/kancolleDivision.png)
-<!--
+<div>
+  <center>
 
+| \                       |                                                         Available                                                         |                                                   Interested                                                   |
+| :---------------------- | :-----------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
+| Language                |             [![My_Sills](https://skill-icons.buntin.workers.dev/icons?i=ts,js,py,java,c)](https://buntin.xyz)             |      [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=rust,go,crystal,nim,haskell,swift)](https://buntin.xyz)      |
+| Frameworks & Technology | [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=react,redux,nodejs,docker,tensorflow)](https://buntin.xyz) | [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=tauri,astro,nextjs,svelte,kubernetes)](https://buntin.xyz) |
 
+|                                                            Using                                                            |                                                           Learning                                                            |
+| :-------------------------------------------------------------------------------------------------------------------------: |:-------------------------------------------------------------------------------------------------------------------------: |
+| [![My Interest](https://skill-icons.buntin.workers.dev/icons?i=cloudflare,nginx,azure,gcp,linux,neovim,vscode)](https://buntin.xyz) |[![My Interest](https://skill-icons.buntin.workers.dev/icons?i=scikitlearn,tailwind,wasm)](https://buntin.xyz) |
 
-**Here are some ideas to get you started:**
+</center>
+  </div>
+  
+```yaml
+Field of study: Computer Science & Machine Learning
+Areas of interest: Artificial Intelligence, Web, Cryptocurrency, Large-scale Language Models
+Residence: Japan
+University Location: Tokyo
+```
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+🤌🤌🤌
+
+## 私のレポジトリに関して質問などありましたら、私の Discord(buntin_synthia)まで気軽にお寄せください。
+
+[![t](https://skill-icons.buntin.workers.dev/icons?i=discord)](https://github.com/buntinjp)
+
+[![](https://raw.githubusercontent.com/BuntinJP/BuntinJP/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/buntinjp)
+[![](https://raw.githubusercontent.com/BuntinJP/BuntinJP/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/buntinjp)
+[![](https://raw.githubusercontent.com/BuntinJP/BuntinJP/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/buntinjp)
+[![](https://raw.githubusercontent.com/BuntinJP/BuntinJP/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/buntinjp)
+[![](https://raw.githubusercontent.com/BuntinJP/BuntinJP/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/buntinjp)
+
